@@ -1,70 +1,163 @@
-<p align="right">ES / <a href="https://github.com/angelabenavente" tabindex=”0” role=”link” style=”cursor:pointer;”>EN</a> / <a href="https://github.com/angelabenavente/angelabenavente_fr#readme" tabindex=”0” role=”link” style=”cursor:pointer;”>FR</a></p>
-
-# Hola, soy Ángela 👋
-
-<p>Soy una desarrolladora frontend y linguísta de España. Además de <a href="https://angelabenavente.github.io/" tabindex=”0” role=”link” style=”cursor:pointer;”>pelearme con el código</a>, pensar en interfaces e investigar sobre las nuevas tendencias del mundo dev, estoy aprendiendo accesibilidad web. Me gusta practicar francés y chino mandarín, el senderismo y la música.</p>
-<p>Estoy abierta a participar en proyectos colaborativos y mentorizar :)</p>
-
-## 
-### Lenguajes y herramientas:
-<p>
-   <a href="https://developer.mozilla.org/es/docs/Web/HTML" tabindex=”0” role=”link” style=”cursor:pointer;”>
-   <img src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic&amp;logo=html5&amp;logoColor=white" alt="HTML5" data-canonical-src="https://img.shields.io/badge/-HTML5-E34F26?style=plastic&amp;logo=html5&amp;logoColor=white" style="max-width:100%;">
- </a>
-   
-<a href="https://developer.mozilla.org/es/docs/Web/CSS" tabindex=”0” role=”link” style=”cursor:pointer;”>
-   <img src="https://img.shields.io/badge/-CSS3-1572B6?style=plastic&amp;logo=css3&amp;logoColor=white" alt="CSS3" data-canonical-src="https://img.shields.io/badge/-CSS3-1572B6?style=plastic&amp;logo=css3&amp;logoColor=white" style="max-width:100%;">
- </a>
- <a href="https://sass-lang.com/" tabindex=”0” role=”link” style=”cursor:pointer;”>
-   <img src="https://img.shields.io/badge/-SASS-CC6699?style=plastic&amp;logo=sass&amp;logoColor=white" alt="SASS" data-canonical-src="https://img.shields.io/badge/-SASS-CC6699?style=plastic&amp;logo=sass&amp;logoColor=white" style="max-width:100%;">
- </a>
- 
-<a href="https://developer.mozilla.org/es/docs/Web/JavaScript" tabindex=”0” role=”link” style=”cursor:pointer;”>
-   <img src="https://img.shields.io/badge/-JavaScript-DFB317?style=plastic&amp;logo=javaScript&labelColor=FFFFFF;logo=JavaScript&amp;logoColor=white" alt="JavaScript" data-canonical-src="https://img.shields.io/badge/-JavaScript-DFB317?style=plastic&amp;labelColor=FFFFFF;logo=JavaScript&amp;logoColor=white" style="max-width:100%;">
- </a>
- 
-<a href="https://angular.io/docs" tabindex=”0” role=”link” style=”cursor:pointer;”>
-   <img src="https://img.shields.io/badge/-Angular-DD0031?style=plastic&amp;logo=angular" alt="Angular" data-canonical-src="https://img.shields.io/badge/-Angular-DD0031?style=plastic&amp;logo=angular" style="max-width:100%;">
- </a>
- 
-<a href="https://reactjs.org/" tabindex=”0” role=”link” style=”cursor:pointer;”>
-   <img src="https://img.shields.io/badge/-React-61DAFB?style=plastic&amp;logo=react&amp;labelColor=FFFFFF;logo=react&amp;logoColor=white" alt="React" data-canonical-src="https://img.shields.io/badge/-React-61DAFB?style=plastic&amp;labelColor=FFFFFF;logo=react&amp;logoColor=white" style="max-width:100%;">
- </a>
- 
-<a href="https://www.typescriptlang.org/" tabindex=”0” role=”link” style=”cursor:pointer;”>
-   <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&amp;logo=TypeScript&amp;logoColor=white" alt="TypeScript" data-canonical-src="https://img.shields.io/badge/-TypeScript-3178C6?style=plastic&amp;logo=TypeScript&amp;logoColor=white" style="max-width:100%;">
- </a>
- 
-<a href="https://git-scm.com/" tabindex=”0” role=”link” style=”cursor:pointer;”>
-   <img src="https://img.shields.io/badge/-Git-F05032?style=plastic&amp;logo=git&amp;logoColor=white" alt="Git" data-canonical-src="https://img.shields.io/badge/-Git-F05032?style=plastic&amp;logo=git&amp;logoColor=white" style="max-width:100%;">
- </a>
- 
-<a href="https://nodejs.org/es/docs/" tabindex=”0” role=”link” style=”cursor:pointer;”>
-   <img src="https://img.shields.io/badge/-Node.js-339933?style=plastic&amp;logo=node.js&amp;logoColor=white" alt="Node.js" data-canonical-src="https://img.shields.io/badge/-Node.js-339933?style=plastic&amp;logo=node.js&amp;logoColor=white" style="max-width:100%;">
- </a>
+<p align="right">
+  <a href="https://github.com/angelabenavente">EN</a> /
+  ES /
+  <a href="https://github.com/angelabenavente/angelabenavente_fr#readme">FR</a>
 </p>
 
-### Actividad en Github:
+<h1 align="left">
+  <img
+    src="https://github-production-user-asset-6210df.s3.amazonaws.com/73993775/283929614-7d083e4b-8c04-4c94-b996-085e97c9a6a0.gif"
+    width="41"
+    alt=""
+  >
+  Hola, soy Ángela Benavente (Elabezan)
+</h1>
 
 <p>
-   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelabenavente&layout=compact&line_height=1&border_color=ffffff&line_height=2" />
-   
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=angelabenavente&hide=contribs,issues&include_all_commits=true&theme=top-langs/?username=angelabenavente&layout=compact&show_icons=true&border_color=ffffff&custom_title=Stats&count_private=true&disable_animations=true" />
+  Soy ingeniera senior de España, especializada en front-end y producto. Me gusta combinar la creatividad y los datos para construir herramientas útiles.
 </p>
 
-### ¡Conectemos!
 <p>
-    <a href="https://es.linkedin.com/in/%C3%A1ngela-benavente-almaz%C3%A1n-436003174" tabindex=”0” role=”link” style=”cursor:pointer;”>
-      <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&amp;style=plastic&amp;e&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;" alt="LinkedIn" data- canonical-src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&amp;style=plastic&amp;e&amp;logo=linkedin&amp;logoColor=white" style="max-width:100%;">
-   </a>
-   
-   <a href="https://es.stackoverflow.com/users/144914/Ángelabenavente" tabindex=”0” role=”link” style=”cursor:pointer;”>
-      <img src="https://img.shields.io/badge/StackOverflow-F58025.svg?&amp;style=plastic&amp;logo=StackOverflow&amp;logoColor=white" alt="Stack Overflow" data-canonical-src="https://img.shields.io/badge/StackOverflow-%>F58025.svg?&amp;style=plastic&amp;logo=StackOverflow&amp;logoColor=white" style="max-width:100%;">
-   </a>
-   
-   <a href="https://twitter.com/AngieBenavente" tabindex=”0” role=”link” style=”cursor:pointer;”>
-      <img src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&amp;style=plastic&amp;logo=twitter&amp;logoColor=white" alt="Twitter" data-canonical-src="https://img.shields.io/badge/Twitter-%231DA1F2.svg?&amp;style=plastic&amp;logo=twitter&amp;logoColor=white" style="max-width:100%;">
-   </a>
-</p>  
-<p align="right"><a href="https://github.com/angelabenavente" tabindex=”0” role=”link” style=”cursor:pointer;>:leftwards_arrow_with_hook: Volver al perfil</a></p>
+  Me interesan especialmente la accesibilidad y la seguridad, y escribo sobre lo que voy aprendiendo en
+  <a href="https://angelabenavente.github.io/">mi blog</a>.
+</p>
 
+<p>
+  Abierta a colaboraciones interesantes y mentoría :)
+</p>
+
+---
+
+## 🛠️ Stack y herramientas
+
+<table>
+  <tr>
+    <th align="left">Categoría</th>
+    <th align="left">Tecnologías y prácticas</th>
+  </tr>
+
+  <tr>
+    <td><b>Lenguajes</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript">
+      <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/-CSS-663399?style=flat-square&logo=css&logoColor=white" alt="CSS">
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Web</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React">
+      <img src="https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js">
+      <img src="https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular">
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Móvil</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-React_Native-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React Native">
+      <img src="https://img.shields.io/badge/-Expo-000020?style=flat-square&logo=expo&logoColor=white" alt="Expo">
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Estilos</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Sass-CC6699?style=flat-square&logo=sass&logoColor=white" alt="Sass">
+      <img src="https://img.shields.io/badge/-Styled_Components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white" alt="Styled Components">
+      <img src="https://img.shields.io/badge/-Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS">
+      <img src="https://img.shields.io/badge/-Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white" alt="Storybook">
+      <img src="https://img.shields.io/badge/-Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma">
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Gestión de estado</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux">
+      <img src="https://img.shields.io/badge/-RxJS-B7178C?style=flat-square&logo=reactivex&logoColor=white" alt="RxJS">
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Testing</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Jest-C21325?style=flat-square&logo=jest&logoColor=white" alt="Jest">
+      <img src="https://img.shields.io/badge/-Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white" alt="Vitest">
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Accesibilidad</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-WCAG-005A9C?style=flat-square&logo=w3c&logoColor=white" alt="WCAG">
+      <img src="https://img.shields.io/badge/-axe-663399?style=flat-square" alt="axe">
+      <img src="https://img.shields.io/badge/-Lighthouse-F44B21?style=flat-square&logo=lighthouse&logoColor=white" alt="Lighthouse">
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Seguridad</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-OWASP-000000?style=flat-square&logo=owasp&logoColor=white" alt="OWASP">
+      <img src="https://img.shields.io/badge/-ISO_27001_Audits-0052CC?style=flat-square" alt="Auditorías internas ISO 27001">
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Backend y APIs</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js">
+      <img src="https://img.shields.io/badge/-Express-0A0A0A?style=flat-square&logo=express&logoColor=white" alt="Express">
+      <img src="https://img.shields.io/badge/-REST-009688?style=flat-square" alt="REST">
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Cloud y CI/CD</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square" alt="AWS">
+      <img src="https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel">
+      <img src="https://img.shields.io/badge/-GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions">
+      <img src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker">
+      <img src="https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes">
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>CMS</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Strapi-4945FF?style=flat-square&logo=strapi&logoColor=white" alt="Strapi">
+      <img src="https://img.shields.io/badge/-TinaCMS-EC4815?style=flat-square&logo=tina&logoColor=white" alt="TinaCMS">
+      <img src="https://img.shields.io/badge/-MkDocs-526CFE?style=flat-square" alt="MkDocs">
+    </td>
+  </tr>
+
+  <tr>
+    <td><b>Herramientas</b></td>
+    <td>
+      <img src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git">
+      <img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub">
+      <img src="https://img.shields.io/badge/-VS_Code-007ACC?style=flat-square" alt="VS Code">
+      <img src="https://img.shields.io/badge/-Xcode-147EFB?style=flat-square&logo=xcode&logoColor=white" alt="Xcode">
+      <img src="https://img.shields.io/badge/-npm-CB3837?style=flat-square&logo=npm&logoColor=white" alt="npm">
+      <img src="https://img.shields.io/badge/-Yarn-2C8EBB?style=flat-square&logo=yarn&logoColor=white" alt="Yarn">
+      <img src="https://img.shields.io/badge/-GNU_Make-6D00CC?style=flat-square" alt="GNU Make">
+      <img src="https://img.shields.io/badge/-Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite">
+      <img src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black" alt="Webpack">
+    </td>
+  </tr>
+</table>
+
+---
+
+<p align="center">
+  <img
+    src="./assets/angelabenavente-terminal-animation-bash.gif"
+    alt="Animación de terminal de Ángela"
+    width="100%"
+  >
+</p>
