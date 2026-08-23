@@ -14,11 +14,11 @@
 </h1>
 
 <p>
-  Soy ingeniera senior de España, especializada en front-end y producto. Me gusta combinar la creatividad y los datos para construir herramientas útiles.
+  Soy ingeniera de software sénior en España, especializada en frontend y producto. Me gusta unir creatividad y datos para crear herramientas útiles.
 </p>
 
 <p>
-  Me interesan especialmente la accesibilidad y la seguridad, y escribo sobre lo que voy aprendiendo en
+   Me interesan especialmente la accesibilidad y la seguridad. Comparto lo que voy aprendiendo sobre estos y otros temas en
   <a href="https://angelabenavente.github.io/">mi blog</a>.
 </p>
 
