@@ -19,7 +19,7 @@
 
 <p>
    Me interesan especialmente la accesibilidad y la seguridad. Comparto lo que voy aprendiendo sobre estos y otros temas en
-  <a href="https://angelabenavente.github.io/">mi blog</a>.
+  <a href="https://www.elabezan.com/">mi blog</a>.
 </p>
 
 <p>
