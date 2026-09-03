@@ -14,7 +14,7 @@
 </h1>
 
 <p>
-  Soy ingeniera de software sénior en España, especializada en frontend y producto. Me gusta unir creatividad y datos para crear herramientas útiles.
+  Soy ingeniera de software senior, especializada en frontend y producto. Me gusta unir creatividad y datos para crear herramientas útiles.
 </p>
 
 <p>
@@ -24,6 +24,20 @@
 
 <p>
   Abierta a colaboraciones interesantes y mentoría :)
+</p>
+
+---
+
+<p align="center">
+  <img
+    src="./github-profile.svg"
+    alt="github-profile.sh"
+    width="100%"
+  >
+</p>
+
+<p align="center">
+  Hecho con <a href="https://github.com/angelabenavente/github-profile-sh">github-profile.sh</a> &lt;3
 </p>
 
 ---
@@ -151,13 +165,3 @@
     </td>
   </tr>
 </table>
-
----
-
-<p align="center">
-  <img
-    src="./assets/angelabenavente-terminal-animation-bash.gif"
-    alt="Animación de terminal de Ángela"
-    width="100%"
-  >
-</p>
